@@ -1,1 +1,2 @@
 # lab-04
+This lab was all about getting my first Express server up and running, and honestly it felt very nice to see code function and work instead of not seeing results. I learned how to initialize a Node project with npm and then added Express which is still difficult for me. I also used VSCode to test everything and fixed MIME error. I added a second route with query parameters which actually worked.
